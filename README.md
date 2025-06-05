@@ -44,3 +44,8 @@ By default, 4 accounts are created:
 |tech|tech|Technician|
 |normal|normal|Normal|
 |post-only|postonly| Post only|
+
+## For ARM users
+
+Use [zimbres/glpi](https://hub.docker.com/r/zimbres/glpi
+) image instead 
